@@ -1,7 +1,9 @@
-import skillPage from './skill'
-let name = document.querySelector('#name')
 
 
-function changepage() {
-    return skillPage();
+function skillPage() {
+    location.assign('porto.html')
+}
+
+function home() {
+    location.replace('index.html')
 }
