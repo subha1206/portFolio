@@ -1,9 +1,9 @@
 
 
 function skillPage() {
-    location.assign('porto.html')
+    location.assign('portFolio.html')
 }
 
 function home() {
-    location.replace('index.html')
+    location.replace('contact.html')
 }
